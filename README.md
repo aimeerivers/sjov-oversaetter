@@ -1,8 +1,10 @@
-Jeg praktiserer bare mine danske programmering og eksperimenterer med Google Translate.
+# Sjov oversætter
 
-Intet meget at se her!
+Jeg vil bare se hvad der sker, når man oversætte tekste flere gang. Det kan være rigtigt sjovt!
 
-# Hvis du vil gerne bruge den her
+Jeg praktiserer også min danske programmering, så er det skrevet på dansk.
+
+## Hvis du vil gerne bruge den her
 
 Få en Cloud Translation API nøgle fra https://cloud.google.com/translate/docs/quickstart
 
