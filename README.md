@@ -9,6 +9,7 @@ Få en Cloud Translation API nøgle fra https://cloud.google.com/translate/docs/
 Gem JSON filen hver som helst
 
 Exportere placeringen af filen, f.eks.
+
     export GOOGLE_APPLICATION_CREDENTIALS=/home/Mig/config/google.json
 
 Installere Google Cloud SDK, se https://cloud.google.com/sdk/docs/quickstart-macos
